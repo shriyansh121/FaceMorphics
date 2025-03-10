@@ -73,3 +73,5 @@ The project successfully integrated face recognition with video processing, but 
 
 ![Image](https://github.com/user-attachments/assets/688eab0d-8206-4ec7-92f2-b91e25bd876c)
 
+# add cropped video clip 2-3 for example
+
